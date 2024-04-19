@@ -12,3 +12,5 @@ Le texte et les images sont entièrement le fruit de mon travail à condition qu
 
 # La finalité
 Le papier a été finalisé début 2024, pour une présentation à l'[ACIIDS](https://aciids.pwr.edu.pl/2024/) (Asian Conference on Intelligent Information and Database Systems) le 15 avril 2024 à Ras Al Khaimah, aux Émirats arabes unis.
+
+Il est accessible [ici](https://univ-pau.hal.science/hal-04549466) !
